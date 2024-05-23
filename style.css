@@ -347,5 +347,29 @@ footer .footer-bottom {
 .menu-container ul{
   margin-left: 1250px;
   font-size: 20px;
+  text-decoration: none;
+  gap: 30px;
+ 
+  
 }
+
+
+.menu-container ul a{
+
+
+color: #fff;
+
+
+
+}
+
+
+
+
+
+.menu-container ul a:hover{
+  color: #7c4dff;
+  text-decoration: none;
+}
+
 
